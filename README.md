@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hussnain Ahmed</h1>
 <h3 align="center">A passionate Backend developer from Pakistan</h3>
-<img align="right" width=400 src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
+<img align="right" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeterminator007&label=Profile%20views&color=0e75b6&style=flat" alt="codeterminator007" /> </p>
 
 
